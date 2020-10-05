@@ -4,7 +4,7 @@ package_title: "misspelt_uk_tjb"
 package_desc: "My own spelling error file UK English"
 package_version: "0.1.1"
 package_author: "Terry Barker"
-package_repo: "https://github.com/terrybarker/espanso-package-example.git"
+package_repo: "https://github.com/terrybarker/espanso-package-ukspell.git"
 ---
 # misspelt_uk_tjb
 
