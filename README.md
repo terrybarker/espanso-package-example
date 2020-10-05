@@ -8,7 +8,7 @@ package_repo: "https://github.com/terrybarker/espanso-package-ukspell.git"
 ---
 # misspelt_uk_tjb
 
-misspelt_uk_tjb is a espanso package which is replacing american english with british english.
+misspelt_uk_tjb is a espanso package with my own spelling errors corrected.
 
 
 ## Installation
